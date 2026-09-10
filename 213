@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <title>HTTPS Page</title>
+</head>
+<body>
+    <h1>Публічна сторінка Волошина Артема/h1>
+    <p>Ця сторінка працює через HTTPS.</p>
+</body>
+</html>
